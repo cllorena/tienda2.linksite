@@ -142,7 +142,7 @@ span.variant-name, span.custom-variant-name{
 }*/
 
 .featured-view .spacer span,.discontinued-view .spacer span,.latest-view .spacer span,.topten-view .spacer span,.recent-view .spacer span,.related-products-view .spacer span,.browse-view .row .product .spacer span{
-  font-size: 13px;
+  font-size: 20px;
   color: #666;
 }
 
